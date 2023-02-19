@@ -8,3 +8,12 @@
     # - localhost/livros/id (PUT)
     # - localhost/livros/id(DELETE)
 # 4 Quais recursos - LIVROS
+
+
+<div  alt="linguagens"style="display: inline_block"></br>
+
+  
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+ 
+  
+</div></br>
